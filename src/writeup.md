@@ -1,4 +1,4 @@
-** RUBRIC POINTS **
+##RUBRIC POINTS 
 
 [//]: # (Image references)
 [image1]: ./model.png "Model"
